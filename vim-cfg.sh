@@ -45,7 +45,7 @@ then
 	apt-get update
 	apt-get install git	
 else
-	echo "检测到ctags已安装"
+	echo "检测到git已安装"
 fi
 
 #创建目录，用于安装pathogen，插件管理工具
