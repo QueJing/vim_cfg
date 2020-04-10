@@ -42,3 +42,4 @@ syntax on
 set number
 set numberwidth=5
 set textwidth=100
+set mouse=r
